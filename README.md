@@ -1,16 +1,25 @@
-## Hi there 👋
+```yaml
+name: Alexia Medina
+located_in: Orlando, Florida
+current_job: Student
+education:
+  [
+    "B.S. Information Technology, University of Central Florida",
+  ]
 
-<!--
-**jellystars/jellystars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "Game Development",
+  ]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+technical_background:
+  [
+    "Full Stack Developer",
+    "Job Shadow - Westgate Resorts",
+    "Job Shadow - BNY Mellon",
+  ]
+` ` `
+```
