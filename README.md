@@ -14,10 +14,4 @@ fields_of_interests:
     "Machine Learning",
     "Game Development",
   ]
-
-technical_background:
-  [
-    "Job Shadow - Westgate Resorts",
-    "Job Shadow - BNY Mellon",
-  ]
 ```
