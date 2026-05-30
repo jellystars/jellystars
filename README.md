@@ -21,5 +21,4 @@ technical_background:
     "Job Shadow - Westgate Resorts",
     "Job Shadow - BNY Mellon",
   ]
-` ` `
 ```
