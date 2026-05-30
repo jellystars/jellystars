@@ -9,9 +9,9 @@ education:
 
 fields_of_interests:
   [
-    "Web Development",
-    "Data Science",
+    "Data Analytics/Science",
     "Machine Learning",
-    "Game Development",
+    "Systems/Network Administration",
+    "Full-Stack Development",
   ]
 ```
