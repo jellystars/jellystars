@@ -17,7 +17,6 @@ fields_of_interests:
 
 technical_background:
   [
-    "Full Stack Developer",
     "Job Shadow - Westgate Resorts",
     "Job Shadow - BNY Mellon",
   ]
